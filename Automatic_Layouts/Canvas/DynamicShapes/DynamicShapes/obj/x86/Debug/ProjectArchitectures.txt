@@ -1,0 +1,1 @@
+F:\0001_XAML\Automatic_Layouts\Canvas\DynamicShapes\DynamicShapes\DynamicShapes.csproj;x86
