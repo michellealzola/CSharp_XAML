@@ -1,0 +1,31 @@
+﻿<Page
+    x:Class="InteractiveCanvas.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:InteractiveCanvas"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Canvas x:Name="Main_Canvas"
+            Width="1000"
+            Height="700">
+        <Button x:Name="Button_Move"
+                Width="150"
+                Height="50"
+                Content="Move Textblock"
+                Canvas.Left="50"
+                Canvas.Top="50"
+                Background="MistyRose"
+                CornerRadius="5"
+                Click="Button_Move_Click" />
+        <TextBlock x:Name="Textblock_Moving" 
+                   Text="This is a Textblock"
+                   Canvas.Left="50"
+                   Canvas.Top="200"
+                   Foreground="#FFF54444"
+                   FontWeight="Bold"
+                   FontSize="16" />
+    </Canvas>
+</Page>
