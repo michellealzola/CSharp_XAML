@@ -1,0 +1,68 @@
+﻿<Page
+    x:Class="NestedStackPanels.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:NestedStackPanels"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <StackPanel Orientation="Vertical"
+                Background="Honeydew"
+                HorizontalAlignment="Left">
+        <StackPanel Orientation="Vertical"
+                    Background="LightCoral"
+                    Width="200"
+                    Height="200">
+            <StackPanel Orientation="Vertical"
+                        HorizontalAlignment="Center">
+                <Button Content="Button 1" 
+                        Margin="5,5,5,5"
+                        Width="200"/>
+                <Button Content="Button 2"
+                        Margin="5,5,5,5"
+                        Width="200"/>
+            </StackPanel>
+            
+        </StackPanel>
+        <StackPanel Orientation="Vertical"
+                    Background="BlueViolet"
+                    Width="200"
+                    Height="150">
+            <TextBlock Text="Textblock 1" 
+                       HorizontalAlignment="Center"
+                       Foreground="White"
+                       Margin="0,10,0,0"/>
+            <TextBlock Text="Textblock 1"
+                       HorizontalAlignment="Center"
+                       Foreground="White"
+                       Margin="0,10,0,0" />
+            <TextBlock Text="Textblock 1"
+                       HorizontalAlignment="Center"
+                       Foreground="White"
+                       Margin="0,10,0,0" />
+            <TextBlock Text="Textblock 1"
+                       HorizontalAlignment="Center"
+                       Foreground="White"
+                       Margin="0,10,0,0" />
+
+        </StackPanel>
+        <TextBlock Text="Textblock 1"
+                   HorizontalAlignment="Center"
+                   Foreground="Blue"
+                   Margin="0,10,0,0" />
+        <TextBlock Text="Textblock 1"
+                   HorizontalAlignment="Center"
+                   Foreground="Blue"
+                   Margin="0,10,0,0" />
+        <TextBlock Text="Textblock 1"
+                   HorizontalAlignment="Center"
+                   Foreground="Blue"
+                   Margin="0,10,0,0" />
+        <TextBlock Text="Textblock 1"
+                   HorizontalAlignment="Center"
+                   Foreground="Blue"
+                   Margin="0,10,0,0" />
+    </StackPanel>
+</Page>
