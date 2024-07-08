@@ -1,0 +1,74 @@
+﻿<Window x:Class="SimpleWrapPanel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SimpleWrapPanel"
+        mc:Ignorable="d"
+        Title="MainWindow"
+        Height="450"
+        Width="800">
+    <WrapPanel>
+        <Button FontSize="50"
+                Width="200"
+                Background="Beige"
+                Margin="10">
+            0
+        </Button>
+        <Button FontSize="50"
+                Width="200"
+                Background="Beige"
+                Margin="10">
+            1
+        </Button>
+        <Button FontSize="50"
+                Width="200"
+                Background="Beige"
+                Margin="10">
+            2
+        </Button>
+        <Button FontSize="50"
+                Width="200"
+                Background="Beige"
+                Margin="10">
+            3
+        </Button>
+        <Button FontSize="50"
+                Width="200"
+                Background="Beige"
+                Margin="10">
+            4
+        </Button>
+        <Button FontSize="50"
+                Width="200"
+                Background="Beige"
+                Margin="10">
+            5
+        </Button>
+        <Button FontSize="50"
+                Width="200"
+                Background="Beige"
+                Margin="10">
+            6
+        </Button>
+        <Button FontSize="50"
+                Width="200"
+                Background="Beige"
+                Margin="10">
+            7
+        </Button>
+        <Button FontSize="50"
+                Width="200"
+                Background="Beige"
+                Margin="10">
+            8
+        </Button>
+        <Button FontSize="50"
+                Width="200"
+                Background="Beige"
+                Margin="10">
+            9
+        </Button>
+
+    </WrapPanel>
+</Window>
