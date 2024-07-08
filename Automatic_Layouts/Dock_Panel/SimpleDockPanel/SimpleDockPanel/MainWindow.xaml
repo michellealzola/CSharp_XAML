@@ -1,0 +1,34 @@
+﻿<Window x:Class="SimpleDockPanel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SimpleDockPanel"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <DockPanel>
+        <Button DockPanel.Dock="Top"
+                Background="Aquamarine"
+                Height="50">
+            (Top) 1
+        </Button>
+        <Button DockPanel.Dock="Left"
+                Background="BlueViolet"
+                Width="150">
+            (Left) 2
+        </Button>
+        <Button DockPanel.Dock="Right"
+                Background="Coral"
+                Width="150">
+            (Right) 3
+        </Button>
+        <Button DockPanel.Dock="Bottom"
+                Background="ForestGreen"
+                Height="50">
+            (Bottom) 4
+        </Button>
+        <Button Background="AliceBlue">
+            (Center) 5
+        </Button>
+    </DockPanel>
+</Window>
