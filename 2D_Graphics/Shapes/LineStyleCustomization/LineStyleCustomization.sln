@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineStyleCustomization", "LineStyleCustomization\LineStyleCustomization.csproj", "{87ECB6D3-7C13-482B-A29B-30FBF3D8F073}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87ECB6D3-7C13-482B-A29B-30FBF3D8F073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87ECB6D3-7C13-482B-A29B-30FBF3D8F073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87ECB6D3-7C13-482B-A29B-30FBF3D8F073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87ECB6D3-7C13-482B-A29B-30FBF3D8F073}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F50B19D5-0804-48FB-BC61-B8897BF0AC79}
+	EndGlobalSection
+EndGlobal
