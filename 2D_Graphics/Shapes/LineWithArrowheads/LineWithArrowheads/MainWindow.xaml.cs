@@ -17,6 +17,7 @@ namespace LineWithArrowheads
     public partial class MainWindow : Window
     {
         private double arrowheadSize = 10;
+
         public MainWindow()
         {
             InitializeComponent();
@@ -39,24 +40,24 @@ namespace LineWithArrowheads
             Point start = new Point(MainLine.X1, MainLine.Y1);
             Point end = new Point(MainLine.X2, MainLine.Y2);
 
-            UpdateArrowhead(StartArrowhead, start, end, true);
-            UpdateArrowhead(EndArrowhead, end, start, true);
+            UpdateArrowhead(StartArrowhead, start, end);
+            UpdateArrowhead(EndArrowhead, end, start);
         }
 
-        private void UpdateArrowhead(Polygon arrowhead, Point start, Point end, bool isStart)
+        private void UpdateArrowhead(Polygon arrowhead, Point start, Point end)
         {
-            Vector direction = start - end;
+            Vector direction = end - start;
             direction.Normalize();
-            direction *= arrowheadSize;
+            Vector perpendicular = new Vector(-direction.Y, direction.X);
 
-            Point arrowPoint1 = start + new Vector(-direction.Y, direction.X) / 2;
-            Point arrowPoint2 = end + new Vector(direction.X,-direction.Y) / 2;
+            Point arrowBase1 = end - direction * arrowheadSize + perpendicular * (arrowheadSize / 2);
+            Point arrowBase2 = end - direction * arrowheadSize - perpendicular * (arrowheadSize / 2);
 
             arrowhead.Points = new PointCollection
             {
-                start,
-                arrowPoint1,
-                arrowPoint2
+                end,
+                arrowBase1,
+                arrowBase2
             };
         }
     }
