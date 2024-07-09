@@ -1,0 +1,39 @@
+F:\0001_XAML\2D_Graphics\Shapes\Ellipse Gradient Fill\Ellipse Gradient Fill\bin\Debug\net8.0-windows\Ellipse Gradient Fill.exe
+F:\0001_XAML\2D_Graphics\Shapes\Ellipse Gradient Fill\Ellipse Gradient Fill\bin\Debug\net8.0-windows\Ellipse Gradient Fill.deps.json
+F:\0001_XAML\2D_Graphics\Shapes\Ellipse Gradient Fill\Ellipse Gradient Fill\bin\Debug\net8.0-windows\Ellipse Gradient Fill.runtimeconfig.json
+F:\0001_XAML\2D_Graphics\Shapes\Ellipse Gradient Fill\Ellipse Gradient Fill\bin\Debug\net8.0-windows\Ellipse Gradient Fill.dll
+F:\0001_XAML\2D_Graphics\Shapes\Ellipse Gradient Fill\Ellipse Gradient Fill\bin\Debug\net8.0-windows\Ellipse Gradient Fill.pdb
+F:\0001_XAML\2D_Graphics\Shapes\Ellipse Gradient Fill\Ellipse Gradient Fill\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+F:\0001_XAML\2D_Graphics\Shapes\Ellipse Gradient Fill\Ellipse Gradient Fill\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+F:\0001_XAML\2D_Graphics\Shapes\Ellipse Gradient Fill\Ellipse Gradient Fill\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+F:\0001_XAML\2D_Graphics\Shapes\Ellipse Gradient Fill\Ellipse Gradient Fill\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.dll
+F:\0001_XAML\2D_Graphics\Shapes\Ellipse Gradient Fill\Ellipse Gradient Fill\bin\Debug\net8.0-windows\Xceed.Wpf.Toolkit.dll
+F:\0001_XAML\2D_Graphics\Shapes\Ellipse Gradient Fill\Ellipse Gradient Fill\bin\Debug\net8.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+F:\0001_XAML\2D_Graphics\Shapes\Ellipse Gradient Fill\Ellipse Gradient Fill\bin\Debug\net8.0-windows\de\Xceed.Wpf.AvalonDock.resources.dll
+F:\0001_XAML\2D_Graphics\Shapes\Ellipse Gradient Fill\Ellipse Gradient Fill\bin\Debug\net8.0-windows\es\Xceed.Wpf.AvalonDock.resources.dll
+F:\0001_XAML\2D_Graphics\Shapes\Ellipse Gradient Fill\Ellipse Gradient Fill\bin\Debug\net8.0-windows\fr\Xceed.Wpf.AvalonDock.resources.dll
+F:\0001_XAML\2D_Graphics\Shapes\Ellipse Gradient Fill\Ellipse Gradient Fill\bin\Debug\net8.0-windows\hu\Xceed.Wpf.AvalonDock.resources.dll
+F:\0001_XAML\2D_Graphics\Shapes\Ellipse Gradient Fill\Ellipse Gradient Fill\bin\Debug\net8.0-windows\it\Xceed.Wpf.AvalonDock.resources.dll
+F:\0001_XAML\2D_Graphics\Shapes\Ellipse Gradient Fill\Ellipse Gradient Fill\bin\Debug\net8.0-windows\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+F:\0001_XAML\2D_Graphics\Shapes\Ellipse Gradient Fill\Ellipse Gradient Fill\bin\Debug\net8.0-windows\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+F:\0001_XAML\2D_Graphics\Shapes\Ellipse Gradient Fill\Ellipse Gradient Fill\bin\Debug\net8.0-windows\ro\Xceed.Wpf.AvalonDock.resources.dll
+F:\0001_XAML\2D_Graphics\Shapes\Ellipse Gradient Fill\Ellipse Gradient Fill\bin\Debug\net8.0-windows\ru\Xceed.Wpf.AvalonDock.resources.dll
+F:\0001_XAML\2D_Graphics\Shapes\Ellipse Gradient Fill\Ellipse Gradient Fill\bin\Debug\net8.0-windows\sv\Xceed.Wpf.AvalonDock.resources.dll
+F:\0001_XAML\2D_Graphics\Shapes\Ellipse Gradient Fill\Ellipse Gradient Fill\bin\Debug\net8.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+F:\0001_XAML\2D_Graphics\Shapes\Ellipse Gradient Fill\Ellipse Gradient Fill\obj\Debug\net8.0-windows\Ellipse Gradient Fill.csproj.AssemblyReference.cache
+F:\0001_XAML\2D_Graphics\Shapes\Ellipse Gradient Fill\Ellipse Gradient Fill\obj\Debug\net8.0-windows\MainWindow.g.cs
+F:\0001_XAML\2D_Graphics\Shapes\Ellipse Gradient Fill\Ellipse Gradient Fill\obj\Debug\net8.0-windows\App.g.cs
+F:\0001_XAML\2D_Graphics\Shapes\Ellipse Gradient Fill\Ellipse Gradient Fill\obj\Debug\net8.0-windows\Ellipse Gradient Fill_MarkupCompile.cache
+F:\0001_XAML\2D_Graphics\Shapes\Ellipse Gradient Fill\Ellipse Gradient Fill\obj\Debug\net8.0-windows\Ellipse Gradient Fill_MarkupCompile.lref
+F:\0001_XAML\2D_Graphics\Shapes\Ellipse Gradient Fill\Ellipse Gradient Fill\obj\Debug\net8.0-windows\MainWindow.baml
+F:\0001_XAML\2D_Graphics\Shapes\Ellipse Gradient Fill\Ellipse Gradient Fill\obj\Debug\net8.0-windows\Ellipse Gradient Fill.g.resources
+F:\0001_XAML\2D_Graphics\Shapes\Ellipse Gradient Fill\Ellipse Gradient Fill\obj\Debug\net8.0-windows\Ellipse Gradient Fill.GeneratedMSBuildEditorConfig.editorconfig
+F:\0001_XAML\2D_Graphics\Shapes\Ellipse Gradient Fill\Ellipse Gradient Fill\obj\Debug\net8.0-windows\Ellipse Gradient Fill.AssemblyInfoInputs.cache
+F:\0001_XAML\2D_Graphics\Shapes\Ellipse Gradient Fill\Ellipse Gradient Fill\obj\Debug\net8.0-windows\Ellipse Gradient Fill.AssemblyInfo.cs
+F:\0001_XAML\2D_Graphics\Shapes\Ellipse Gradient Fill\Ellipse Gradient Fill\obj\Debug\net8.0-windows\Ellipse Gradient Fill.csproj.CoreCompileInputs.cache
+F:\0001_XAML\2D_Graphics\Shapes\Ellipse Gradient Fill\Ellipse Gradient Fill\obj\Debug\net8.0-windows\Ellipse .3C1C1692.Up2Date
+F:\0001_XAML\2D_Graphics\Shapes\Ellipse Gradient Fill\Ellipse Gradient Fill\obj\Debug\net8.0-windows\Ellipse Gradient Fill.dll
+F:\0001_XAML\2D_Graphics\Shapes\Ellipse Gradient Fill\Ellipse Gradient Fill\obj\Debug\net8.0-windows\refint\Ellipse Gradient Fill.dll
+F:\0001_XAML\2D_Graphics\Shapes\Ellipse Gradient Fill\Ellipse Gradient Fill\obj\Debug\net8.0-windows\Ellipse Gradient Fill.pdb
+F:\0001_XAML\2D_Graphics\Shapes\Ellipse Gradient Fill\Ellipse Gradient Fill\obj\Debug\net8.0-windows\Ellipse Gradient Fill.genruntimeconfig.cache
+F:\0001_XAML\2D_Graphics\Shapes\Ellipse Gradient Fill\Ellipse Gradient Fill\obj\Debug\net8.0-windows\ref\Ellipse Gradient Fill.dll
