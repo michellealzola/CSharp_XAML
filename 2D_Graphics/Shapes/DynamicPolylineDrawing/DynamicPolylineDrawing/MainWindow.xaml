@@ -1,0 +1,24 @@
+﻿<Window x:Class="DynamicPolylineDrawing.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DynamicPolylineDrawing"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    
+    <Grid>
+        <Canvas Name="DrawingCanvas"
+                Background="White"
+                MouseLeftButtonDown="DrawingCanvas1_MouseLeftButtonDown" />
+        <StackPanel Orientation="Vertical"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Top"
+                    Margin="10">
+            <Button Content="Clear"
+                    Click="ClearButton_Click"
+                    Margin="5" />
+        </StackPanel>
+
+    </Grid>
+</Window>
