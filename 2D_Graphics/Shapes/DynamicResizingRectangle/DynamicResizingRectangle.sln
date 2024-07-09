@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicResizingRectangle", "DynamicResizingRectangle\DynamicResizingRectangle.csproj", "{679621E7-14AD-41F1-9665-3C01E0B5454F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{679621E7-14AD-41F1-9665-3C01E0B5454F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{679621E7-14AD-41F1-9665-3C01E0B5454F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{679621E7-14AD-41F1-9665-3C01E0B5454F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{679621E7-14AD-41F1-9665-3C01E0B5454F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0FFC6DC-A4F3-4241-8B92-B6E75C669E2F}
+	EndGlobalSection
+EndGlobal
