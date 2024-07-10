@@ -1,0 +1,33 @@
+﻿<Window x:Class="RectangleAnimation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RectangleAnimation"
+        mc:Ignorable="d"
+        Title="Rectangle Animation"
+        Height="450"
+        Width="800">
+    
+    <Grid>
+        <Canvas x:Name="DrawingCanvas"
+                Background="AliceBlue"
+                Width="780"
+                Height="380"
+                Margin="10">
+            <Path x:Name="AnimatedRectangle"
+                  Fill="Brown">
+                <Path.Data>
+                    <RectangleGeometry x:Name="AnimatedRectangleGeometry"
+                                       Rect="0,0,100,50" />
+                </Path.Data>                
+            </Path>            
+        </Canvas>
+        <Button Content="Animate" 
+                HorizontalAlignment="Left"
+                VerticalAlignment="Bottom"
+                Width="100"
+                Click="AnimateButton_Click" />
+
+    </Grid>
+</Window>
