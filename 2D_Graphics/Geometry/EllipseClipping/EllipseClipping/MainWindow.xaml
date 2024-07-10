@@ -1,0 +1,73 @@
+﻿<Window x:Class="EllipseClipping.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EllipseClipping"
+        mc:Ignorable="d"
+        Title="Ellipse Clipping"
+        Height="450"
+        Width="800">
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal"
+                    Grid.Row="0"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Top"
+                    Background="BlanchedAlmond"
+                    Margin="10">
+            <StackPanel Orientation="Vertical"
+                        Margin="5">
+                <TextBlock Text="Width"
+                           Margin="5" />
+                <TextBox x:Name="WidthTextBox"
+                         Text="100"
+                         Margin="2" />
+            </StackPanel>
+            <StackPanel Orientation="Vertical"
+                        Margin="5">
+                <TextBlock Text="Height"
+                           Margin="5" />
+                <TextBox x:Name="HeightTextBox"
+                         Text="100"
+                         Margin="2" />
+            </StackPanel>
+            <StackPanel Orientation="Vertical"
+                        Margin="5">
+                <TextBlock Text="Center X"
+                           Margin="5" />
+                <TextBox x:Name="CenterXTextBox"
+                         Text="100"
+                         Margin="2" />
+            </StackPanel>
+            <StackPanel Orientation="Vertical"
+                        Margin="5">
+                <TextBlock Text="Center Y"
+                           Margin="5" />
+                <TextBox x:Name="CenterYTextBox"
+                         Text="100"
+                         Margin="2" />
+            </StackPanel>
+
+            <Button Content="Clip Image"
+                    Margin="5"
+                    Click="ClipImageButton_Click" />
+        </StackPanel>
+        <Canvas x:Name="DrawingCanvas"
+                Background="AliceBlue"
+                Margin="10"
+                Grid.Row="1">
+            <Image x:Name="ClippedImage"
+                   Source="F:\AdobeIllustrator\WinterClipart01_ECA\WinterClipart01_ECA-BonusBackground.jpg"
+                   Width="700"
+                   Height="330"
+                   HorizontalAlignment="Left"
+                   VerticalAlignment="Top"/>
+        </Canvas>
+
+    </Grid>
+</Window>
