@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DynamicLineCreation/1.0.0": {
+        "runtime": {
+          "DynamicLineCreation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DynamicLineCreation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
