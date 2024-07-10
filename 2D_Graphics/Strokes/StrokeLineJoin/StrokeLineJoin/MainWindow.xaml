@@ -1,0 +1,49 @@
+﻿<Window x:Class="StrokeLineJoin.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StrokeLineJoin"
+        mc:Ignorable="d"
+        Title="Stroke Line Join"
+        Height="450"
+        Width="800">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="75" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+
+        </Grid.ColumnDefinitions>
+        <Canvas x:Name="DrawingCanvas"
+                Background="AliceBlue"
+                Margin="10"
+                Grid.Row="0"
+                Grid.Column="1"
+                Grid.ColumnSpan="4"
+                Grid.RowSpan="2" />
+        <StackPanel Orientation="Vertical"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Top"
+                    Margin="10">
+            <TextBlock Text="Line Join"
+                       Margin="5" />
+            <ComboBox x:Name="LineJoinComboBox"
+                      Margin="5"
+                      SelectionChanged="LineJoinComboBox_SelectionChanged">
+                <ComboBoxItem Content="Miter" />
+                <ComboBoxItem Content="Bevel" />
+                <ComboBoxItem Content="Round" />
+            </ComboBox>
+
+        </StackPanel>
+
+    </Grid>
+</Window>
