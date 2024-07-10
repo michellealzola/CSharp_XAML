@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EllipseWithGradientFill", "EllipseWithGradientFill\EllipseWithGradientFill.csproj", "{044669AF-3261-412D-8F00-9C8EEFE81927}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{044669AF-3261-412D-8F00-9C8EEFE81927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{044669AF-3261-412D-8F00-9C8EEFE81927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{044669AF-3261-412D-8F00-9C8EEFE81927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{044669AF-3261-412D-8F00-9C8EEFE81927}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA0629C7-56D6-4081-83CE-AFD34906B937}
+	EndGlobalSection
+EndGlobal
