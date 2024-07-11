@@ -1,0 +1,87 @@
+﻿<Window x:Class="ImageTransformation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ImageTransformation"
+        mc:Ignorable="d"
+        Title="Image Transformation"
+        Height="450"
+        Width="800">
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal"
+                    Margin="10"
+                    Background="BlanchedAlmond"
+                    HorizontalAlignment="Center"
+                    Grid.Row="0">
+            
+            <StackPanel Orientation="Vertical"
+                        Margin="10">
+                <TextBlock Text="Scale X" />
+                <Slider x:Name="ScaleXSlider"
+                        Minimum="0.1"
+                        Maximum="3"
+                        Value="1"
+                        Width="100"
+                        ValueChanged="Transform_ValueChanged" />
+            </StackPanel>
+
+            <StackPanel Orientation="Vertical"
+                        Margin="10">
+                <TextBlock Text="Scale Y" />
+                <Slider x:Name="ScaleYSlider"
+                        Minimum="0.1"
+                        Maximum="3"
+                        Value="1"
+                        Width="100"
+                        ValueChanged="Transform_ValueChanged" />
+            </StackPanel>
+
+            <StackPanel Orientation="Vertical"
+                        Margin="10">
+                <TextBlock Text="Rotate" />
+                <Slider x:Name="RotateSlider"
+                        Minimum="0"
+                        Maximum="360"
+                        Value="0"
+                        Width="100"
+                        ValueChanged="Transform_ValueChanged" />
+            </StackPanel>
+
+            <StackPanel Orientation="Vertical"
+                        Margin="10">
+                <TextBlock Text="Translate X" />
+                <Slider x:Name="TranslateXSlider"
+                        Minimum="-200"
+                        Maximum="200"
+                        Value="0"
+                        Width="100"
+                        ValueChanged="Transform_ValueChanged" />
+            </StackPanel>
+
+            <StackPanel Orientation="Vertical"
+                        Margin="10">
+                <TextBlock Text="Translate Y" />
+                <Slider x:Name="TranslateYSlider"
+                        Minimum="-200"
+                        Maximum="200"
+                        Value="0"
+                        Width="100"
+                        ValueChanged="Transform_ValueChanged" />
+            </StackPanel>
+
+        </StackPanel>
+
+        <Canvas x:Name="DrawingCanvas"
+                Background="AliceBlue"
+                Margin="10"
+                Grid.Row="1" />
+
+    </Grid>
+</Window>
