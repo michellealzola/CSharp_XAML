@@ -1,0 +1,20 @@
+F:\0001_XAML\2D_Graphics\PathSegments\BAsic PolyLine Segment\BAsic PolyLine Segment\bin\Debug\net8.0-windows\BAsic PolyLine Segment.exe
+F:\0001_XAML\2D_Graphics\PathSegments\BAsic PolyLine Segment\BAsic PolyLine Segment\bin\Debug\net8.0-windows\BAsic PolyLine Segment.deps.json
+F:\0001_XAML\2D_Graphics\PathSegments\BAsic PolyLine Segment\BAsic PolyLine Segment\bin\Debug\net8.0-windows\BAsic PolyLine Segment.runtimeconfig.json
+F:\0001_XAML\2D_Graphics\PathSegments\BAsic PolyLine Segment\BAsic PolyLine Segment\bin\Debug\net8.0-windows\BAsic PolyLine Segment.dll
+F:\0001_XAML\2D_Graphics\PathSegments\BAsic PolyLine Segment\BAsic PolyLine Segment\bin\Debug\net8.0-windows\BAsic PolyLine Segment.pdb
+F:\0001_XAML\2D_Graphics\PathSegments\BAsic PolyLine Segment\BAsic PolyLine Segment\obj\Debug\net8.0-windows\MainWindow.g.cs
+F:\0001_XAML\2D_Graphics\PathSegments\BAsic PolyLine Segment\BAsic PolyLine Segment\obj\Debug\net8.0-windows\App.g.cs
+F:\0001_XAML\2D_Graphics\PathSegments\BAsic PolyLine Segment\BAsic PolyLine Segment\obj\Debug\net8.0-windows\BAsic PolyLine Segment_MarkupCompile.cache
+F:\0001_XAML\2D_Graphics\PathSegments\BAsic PolyLine Segment\BAsic PolyLine Segment\obj\Debug\net8.0-windows\BAsic PolyLine Segment_MarkupCompile.lref
+F:\0001_XAML\2D_Graphics\PathSegments\BAsic PolyLine Segment\BAsic PolyLine Segment\obj\Debug\net8.0-windows\MainWindow.baml
+F:\0001_XAML\2D_Graphics\PathSegments\BAsic PolyLine Segment\BAsic PolyLine Segment\obj\Debug\net8.0-windows\BAsic PolyLine Segment.g.resources
+F:\0001_XAML\2D_Graphics\PathSegments\BAsic PolyLine Segment\BAsic PolyLine Segment\obj\Debug\net8.0-windows\BAsic PolyLine Segment.GeneratedMSBuildEditorConfig.editorconfig
+F:\0001_XAML\2D_Graphics\PathSegments\BAsic PolyLine Segment\BAsic PolyLine Segment\obj\Debug\net8.0-windows\BAsic PolyLine Segment.AssemblyInfoInputs.cache
+F:\0001_XAML\2D_Graphics\PathSegments\BAsic PolyLine Segment\BAsic PolyLine Segment\obj\Debug\net8.0-windows\BAsic PolyLine Segment.AssemblyInfo.cs
+F:\0001_XAML\2D_Graphics\PathSegments\BAsic PolyLine Segment\BAsic PolyLine Segment\obj\Debug\net8.0-windows\BAsic PolyLine Segment.csproj.CoreCompileInputs.cache
+F:\0001_XAML\2D_Graphics\PathSegments\BAsic PolyLine Segment\BAsic PolyLine Segment\obj\Debug\net8.0-windows\BAsic PolyLine Segment.dll
+F:\0001_XAML\2D_Graphics\PathSegments\BAsic PolyLine Segment\BAsic PolyLine Segment\obj\Debug\net8.0-windows\refint\BAsic PolyLine Segment.dll
+F:\0001_XAML\2D_Graphics\PathSegments\BAsic PolyLine Segment\BAsic PolyLine Segment\obj\Debug\net8.0-windows\BAsic PolyLine Segment.pdb
+F:\0001_XAML\2D_Graphics\PathSegments\BAsic PolyLine Segment\BAsic PolyLine Segment\obj\Debug\net8.0-windows\BAsic PolyLine Segment.genruntimeconfig.cache
+F:\0001_XAML\2D_Graphics\PathSegments\BAsic PolyLine Segment\BAsic PolyLine Segment\obj\Debug\net8.0-windows\ref\BAsic PolyLine Segment.dll
