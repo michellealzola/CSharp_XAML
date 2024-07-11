@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverlayingDrawingsonImage", "OverlayingDrawingsonImage\OverlayingDrawingsonImage.csproj", "{29401DBB-9590-48F4-9033-11EDD8F665BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29401DBB-9590-48F4-9033-11EDD8F665BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29401DBB-9590-48F4-9033-11EDD8F665BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29401DBB-9590-48F4-9033-11EDD8F665BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29401DBB-9590-48F4-9033-11EDD8F665BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {726B6DAB-8B4F-4203-9FA4-B37542FDEA43}
+	EndGlobalSection
+EndGlobal
