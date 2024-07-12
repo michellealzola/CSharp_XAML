@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicPolyQuadraticBezierSegmentCreation", "DynamicPolyQuadraticBezierSegmentCreation\DynamicPolyQuadraticBezierSegmentCreation.csproj", "{14C604AC-0230-418E-A4C9-5FC3310A8632}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14C604AC-0230-418E-A4C9-5FC3310A8632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14C604AC-0230-418E-A4C9-5FC3310A8632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14C604AC-0230-418E-A4C9-5FC3310A8632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14C604AC-0230-418E-A4C9-5FC3310A8632}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F48C3FFA-E7E2-44F0-BD77-A32325C36B56}
+	EndGlobalSection
+EndGlobal
