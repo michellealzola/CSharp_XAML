@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicEllipseGeometry", "BasicEllipseGeometry\BasicEllipseGeometry.csproj", "{B341C051-F6FE-49EC-8B21-15805634A1D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B341C051-F6FE-49EC-8B21-15805634A1D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B341C051-F6FE-49EC-8B21-15805634A1D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B341C051-F6FE-49EC-8B21-15805634A1D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B341C051-F6FE-49EC-8B21-15805634A1D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B0BD2FC-B788-4610-A0AC-BC1DC63CD589}
+	EndGlobalSection
+EndGlobal
