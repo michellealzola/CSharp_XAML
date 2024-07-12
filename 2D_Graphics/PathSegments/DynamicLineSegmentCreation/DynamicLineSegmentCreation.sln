@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicLineSegmentCreation", "DynamicLineSegmentCreation\DynamicLineSegmentCreation.csproj", "{7877B194-E56D-4BA6-A7E2-8E3270BBB82D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7877B194-E56D-4BA6-A7E2-8E3270BBB82D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7877B194-E56D-4BA6-A7E2-8E3270BBB82D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7877B194-E56D-4BA6-A7E2-8E3270BBB82D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7877B194-E56D-4BA6-A7E2-8E3270BBB82D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D91B960E-A870-497C-A6F5-EE40FB4F8635}
+	EndGlobalSection
+EndGlobal
