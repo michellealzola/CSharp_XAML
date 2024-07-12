@@ -12,6 +12,9 @@
     <Grid>
         <Canvas x:Name="DrawingCanvas"
                 Margin="10"
-                Background="AliceBlue" />
+                Background="AliceBlue"
+                MouseLeftButtonDown="DrawingCanvas_MouseLeftButtonDown"
+                MouseMove="DrawingCanvas_MouseMove"
+                MouseLeftButtonUp="DrawingCanvas_MouseLeftButtonUp" />
     </Grid>
 </Window>
